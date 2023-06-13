@@ -1,0 +1,226 @@
+@import url('./main.css');
+
+
+
+
+/* Vector 1 */
+
+
+position: absolute;
+width: 0px;
+height: 1029px;
+left: 640px;
+top: -10px;
+
+border: 1px solid #928989;
+
+
+/* Group 80 */
+
+
+position: absolute;
+width: 367px;
+height: 85px;
+left: 748px;
+top: 753.78px;
+
+
+
+/* Inputs */
+
+
+position: absolute;
+width: 366px;
+height: 108px;
+left: 749px;
+top: 568.78px;
+
+
+
+/* Keep Login/Forgot PW */
+
+
+position: absolute;
+width: 369px;
+height: 29px;
+left: 747px;
+top: 684.78px;
+
+
+
+/* Welcome Back */
+
+
+position: absolute;
+width: 364px;
+height: 164px;
+left: 750px;
+top: 185.78px;
+
+
+
+/* Continue */
+
+
+position: absolute;
+width: 366px;
+height: 108px;
+left: 749px;
+top: 381.78px;
+
+
+
+/* Or */
+
+
+position: absolute;
+width: 366px;
+height: 20px;
+left: 749px;
+top: 508.78px;
+
+
+
+/* Hero Image */
+
+
+position: absolute;
+width: 463px;
+height: 1009px;
+left: 73px;
+
+
+/* For mobile view */
+/* Headline 79 */
+
+
+position: absolute;
+width: 183px;
+height: 28px;
+left: calc(50% - 183px/2);
+top: 130px;
+
+/* Mobile/H2/SemiBold/Center */
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 28px;
+/* identical to box height, or 117% */
+
+text-align: center;
+
+/* Black/Neutral color */
+
+color: #121212;
+
+
+
+/* Unlock the world of languages and embark on an extraordinary experience. Login now and discover the power of communication. */
+
+
+position: absolute;
+width: 300px;
+height: 54px;
+left: calc(50% - 300px/2);
+top: 174px;
+
+/* Mobile/Subtitle/Title/Center */
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* or 150% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Gray color/1 */
+
+color: #616161;
+
+
+
+/* Inputs */
+
+
+position: absolute;
+width: 300px;
+height: 100px;
+left: calc(50% - 300px/2);
+top: 432px;
+
+
+
+/* Cont */
+
+
+position: absolute;
+width: 300px;
+height: 100px;
+left: 30px;
+top: 268px;
+
+
+
+/* Or */
+
+
+position: absolute;
+width: 299.77px;
+height: 16px;
+left: 30px;
+top: 376px;
+
+
+
+/* Group 78 */
+
+
+position: absolute;
+width: 300px;
+height: 67px;
+left: 30px;
+top: 588px;
+
+
+
+/* Keep login */
+
+
+position: absolute;
+width: 301.96px;
+height: 24px;
+left: 28.04px;
+top: 540px;
+
+
+
+/* android-ui/status-bar/dark
+
+Status Bar
+Dark
+*/
+
+position: absolute;
+width: 360px;
+height: 24px;
+left: calc(50% - 360px/2);
+top: 0px;
+
+
+
+/* android-ui/navbar
+
+Navigation Bar
+*/
+
+position: absolute;
+width: 360px;
+height: 48px;
+left: calc(50% - 360px/2);
+bottom: 0px;
